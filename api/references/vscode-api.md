@@ -3626,7 +3626,9 @@ allows quietly prompting the user to sign in.</p>
 
 
 
-<a name="AuthenticationSession.account"></a><span class="ts" id=2614 data-target="#details-2614" data-toggle="collapse"><span class="ident">account</span><span>: </span><a class="type-ref" href="#AuthenticationSessionAccountInformation">AuthenticationSessionAccountInformation</a></span>
+<a name="AuthenticationSession.account"></a><span class="ts" id=2614 data-target="#details-2614" data-toggle="collapse"><span class="ident">```java
+account
+```</span><span>: </span><a class="type-ref" href="#AuthenticationSessionAccountInformation">AuthenticationSessionAccountInformation</a></span>
 <div class="details collapse" id="details-2614">
 <div class="comment"><p>The account associated with the session.</p>
 </div>
