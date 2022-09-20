@@ -339,7 +339,7 @@ export async function activate(context: vscode.ExtensionContext) {
 
     // Register a URI handler for the authentication callback
     vscode.window.registerUriHandler({
-        handleUri(uri: vscode.Uri): vscode.ProviderResult<void> {
+        handleUri(uriProviderResult<void> {
 
             // Add your code for what to do when the authentication completes here.
             if (uri.path === '/auth-complete') {
