@@ -49,9 +49,9 @@ Argument|Description
 `-w` or `--wait` | Wait for the files to be closed before returning.
 `--locale <locale>` | Set the [display language](/docs/getstarted/locales.md) (locale) for the VS Code session. (for example, `en-US` or `zh-TW`)
 
-![launch with locale](images/command-line/launch-locale.png)
+![launch with locale](images/command-l2ine/launch-locale.png)
 
-## Opening Files and Folders
+## Opening Files and Foldersd
 
 Sometimes you will want to open or create a file. If the specified file does not exist, VS Code will create them for you along with any new intermediate folders:
 
